@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Pedro-Linhares, I'm 16 years old and I born in Brazil
-- 👀 I’m interested in learn many differents programming languasges 
-- 🌱 I’m currently learning C 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learn many differents programming languages 
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me:
+  -Discord: Predado, #4548
+  -Instagram: pedro_linhares01
 
 <!---
 Pedro-Linhares/Pedro-Linhares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
