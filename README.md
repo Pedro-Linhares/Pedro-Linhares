@@ -2,8 +2,8 @@
 - 👀 I’m interested in learn many differents programming languages 
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me:
-  *Discord: Predado, #4548
-  *Instagram: pedro_linhares01
+  - Discord: Predado, #4548
+  - Instagram: pedro_linhares01
 
 <!---
 Pedro-Linhares/Pedro-Linhares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
